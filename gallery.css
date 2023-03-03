@@ -1,0 +1,16 @@
+.col{
+    height: 500px;
+    width: 22%;
+    border: black 8px solid;
+    float: left;
+    padding: 10px;
+    
+}
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 100%;
+    height:250px;
+}
